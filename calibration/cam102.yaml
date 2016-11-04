@@ -1,0 +1,20 @@
+image_width: 1280
+image_height: 720
+camera_name: netcam_stream_102
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1248.136725736834, 0, 648.5051101423863, 0, 1249.262864396328, 396.8851647751284, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.3892783359312806, 0.2038194887506485, 0.0009372864807820966, -0.0007417926899884038, 0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [1114.455078125, 0, 648.8355368948542, 0, 0, 1204.725830078125, 399.1915750185071, 0, 0, 0, 1, 0]

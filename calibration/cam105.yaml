@@ -1,6 +1,6 @@
 image_width: 720
 image_height: 1280
-camera_name: narrow_stereo
+camera_name: netcam_stream_105
 camera_matrix:
   rows: 3
   cols: 3
